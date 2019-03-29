@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426593644385",
+    "firebase_url": "https://findyourcar-364f8.firebaseio.com",
+    "project_id": "findyourcar-364f8",
+    "storage_bucket": "findyourcar-364f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426593644385:android:1b7829f2ac180d28",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426593644385-maio95ut9a9ag9vpa0791o90tkpjettb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVXV_AOcmv_Q3cUd2Wo-KyRxVrKrg1gE8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
